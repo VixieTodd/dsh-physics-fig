@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+<rect x="0" y="0" width="640" height="480" fill="#ffffff"/>
+<polygon points="80.5,408.1 559.5,408.1 559.5,131.5" fill="#e8e4dc" stroke="#555" stroke-width="2"/>
+<path d="M 114.5 408.1 A 34 34 0 0 0 109.9 391.1" fill="none" stroke="#333" stroke-width="1.5"/><text x="130.7" y="398.7" font-size="13" font-family="sans-serif" fill="#333" text-anchor="middle">30°</text>
+<polygon points="302.5,280 385.4,232.1 355.5,180.2 272.5,228.1" fill="#9fc2e8" stroke="#23486b" stroke-width="2"/>
+<text x="329" y="235.1" font-size="15" font-family="sans-serif" fill="#123" text-anchor="middle" font-weight="600">block1</text>
+<line x1="329" y1="230.1" x2="329" y2="347.8" stroke="#b3261e" stroke-width="2.5"/><polygon points="329,361.8 324.1,347.8 333.9,347.8" fill="#b3261e"/><text x="315" y="382.8" font-size="15" font-family="sans-serif" fill="#b3261e" text-anchor="middle" font-weight="600">G</text>
+<line x1="329" y1="230.1" x2="278.9" y2="143.4" stroke="#b3261e" stroke-width="2.5"/><polygon points="271.9,131.3 283.2,141 274.7,145.9" fill="#b3261e"/><text x="276.1" y="115.4" font-size="15" font-family="sans-serif" fill="#b3261e" text-anchor="middle" font-weight="600">N</text>
+<line x1="329" y1="230.1" x2="373.9" y2="204.1" stroke="#b3261e" stroke-width="2.5"/><polygon points="386,197.1 376.4,208.4 371.5,199.9" fill="#b3261e"/><text x="406.9" y="206.3" font-size="15" font-family="sans-serif" fill="#b3261e" text-anchor="middle" font-weight="600">f</text>
+</svg>

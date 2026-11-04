@@ -1,0 +1,17 @@
+{
+  "id": "dsh-physics-fig",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "description": "Physics-correct illustration tools for the model: render force diagrams from a structured PhysicsScene into SVG. Deterministic backend: force directions, magnitudes, and geometry are computed by code, never by the model.",
+  "engines": {
+    "dsh": "^0.1.0-rc.6 || ^0.1.1-rc.0 || ^0.1.2-alpha.0 || ^0.1.5-alpha.0 || ^0.2.0-rc.1 || ^0.2.1-rc.3"
+  },
+  "contributes": {
+    "tools": [
+      "physics_fig_schema",
+      "physics_fig_check",
+      "physics_fig_render"
+    ],
+    "skills": []
+  }
+}

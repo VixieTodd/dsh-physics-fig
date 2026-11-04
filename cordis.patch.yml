@@ -1,0 +1,6 @@
+# dsh-physics-fig bundle patch: mount the host plugin under its package name,
+# resolved through the profile's node_modules.
+
+- insert:
+    - id: dsh-physics-fig
+      name: dsh-physics-fig
